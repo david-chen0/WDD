@@ -64,6 +64,7 @@ body {
 .outfit {
 	z-index: 10;
 	position: absolute;
+	display: none;
 }
 
 #o1 {
